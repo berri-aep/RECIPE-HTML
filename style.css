@@ -237,7 +237,7 @@ img {
   display: inline-block;
   position: relative;
   background-color: var(--clr-accent);
-  width: 47rem;
+  width: 45rem;
   height: 0.2rem;
   left: -2rem;
   bottom: 0.6rem;
@@ -247,7 +247,7 @@ img {
   display: inline-block;
   position: relative;
   background-color: var(--clr-accent);
-  width: 47rem;
+  width: 45rem;
   height: 0.2rem;
   right: -2rem;
   bottom: 0.6rem;
