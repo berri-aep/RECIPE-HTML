@@ -736,6 +736,7 @@ img {
   align-items: center;
   gap: 1rem;
 }
+
 .direction__tags--tags {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
